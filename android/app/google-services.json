@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668208061826",
+    "project_id": "flutter-task-management-f96f2",
+    "storage_bucket": "flutter-task-management-f96f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668208061826:android:3862ab7b8251dc4d11839b",
+        "android_client_info": {
+          "package_name": "com.example.cw03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6l8zE-qckO6-__c1guah5PtyF1dbjn5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
